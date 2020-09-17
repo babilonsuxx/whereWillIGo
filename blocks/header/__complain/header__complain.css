@@ -1,0 +1,12 @@
+.header__complain {
+    /* max-width: 186px; */
+    font-style: normal;
+    font-weight: bold;
+    /* font-size: 14px; */
+    /* line-height: 16px; */
+    text-align: right;
+    color: black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-decoration: none;
+}

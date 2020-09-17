@@ -1,0 +1,13 @@
+.header {
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+
+    max-width: 1120px;
+    margin: 0 auto;
+    margin-top: 92px;
+    margin-bottom: 24px;
+}

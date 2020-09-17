@@ -1,0 +1,11 @@
+.header__links {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    list-style-type: none;
+    text-decoration: none;
+}
