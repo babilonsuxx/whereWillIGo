@@ -1,0 +1,27 @@
+.intro-image {
+    width: 350px;
+    height: 350px;
+    margin-right: 75px;
+    margin-bottom: 0px;
+    object-fit: cover;
+}
+
+@media screen and (max-width: 1279px) {
+    .intro-image {
+        width: 250px;
+        height: 250px;
+        margin-right: 35px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro-image {
+        max-width: 720px;
+    }
+}
+
+/* @media screen and (max-width: 767px) {
+    .intro-image {
+        max-width: 375px;
+    }
+} */

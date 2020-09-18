@@ -1,0 +1,42 @@
+.intro {
+    font-family: Inter, Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+    max-width: 1120px;
+    /* margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: ; */
+    margin: 90px auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    /* background-image: url("../../images/intro-image.jpeg"); */
+    /* background-position: 88%; */
+    /* background-position-x: ; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 300px; */
+    /* margin-right: 50px; */
+}
+
+@media screen and (max-width: 1279px) {
+    .intro {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .intro {
+        max-width: 720px;
+        margin: 70px auto;
+    }
+}
+
+/* @media screen and (max-width: 767px) {
+    .intro {
+        max-width: 375px;
+    }
+} */
