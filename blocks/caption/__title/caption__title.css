@@ -2,9 +2,7 @@
     font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 14px;
-    color: sandybrown;
-    /* line-height: 16px; */
-    /* color: #000000; */
-    /* color: #fecea8; */
+    font-size: 12px;
+    color: #fecda7;
+    letter-spacing: 0.5px;
 }
