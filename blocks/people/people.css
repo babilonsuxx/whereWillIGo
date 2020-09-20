@@ -1,36 +1,38 @@
-.intro {
+.people {
     font-family: Inter, Arial, sans-serif;
     font-style: normal;
     font-weight: normal;
     color: #000000;
     max-width: 1140px;
-    margin: 90px auto 130px auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    margin: 0 auto;
+    margin-top: 140px;
+    margin-bottom: 140px;
 }
 
 @media screen and (max-width: 1279px) {
-    .intro {
-        max-width: 928px;
+    .people {
+        max-width: 920px;
     }
 }
 
-@media screen and (max-width: 1023px) {
-    .intro {
+@media screen and (max-width: 1024px) {
+    .people {
         max-width: 720px;
-        margin: 70px auto;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .intro {
+    .people {
         max-width: 600px;
+        margin-top: 90px;
+        margin-bottom: 90px;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .intro {
-       flex-direction: column;
+    .people {
+        max-width: 300px;
+        margin-top: 60px;
+        margin-bottom: 60px;
     }
 }

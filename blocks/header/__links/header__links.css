@@ -9,3 +9,9 @@
     list-style-type: none;
     text-decoration: none;
 }
+
+@media screen and (max-width: 320px) {
+    .header__links {
+        flex-direction: column;
+    }
+}
